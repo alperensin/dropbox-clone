@@ -1,4 +1,4 @@
-export default [
+const data = [
   {
     title: 'Concentre-se apenas no trabalho importante',
     description:
@@ -24,3 +24,5 @@ export default [
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu mi sit amet nisi volutpat facilisis.',
   },
 ];
+
+export default data;
